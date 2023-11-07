@@ -13,6 +13,7 @@
     <li>python pandas</li>
     <li>crawling</li>
     <li>자연어처리 및 감성분석</li>
+    <li>HTML & CSS</li>
     <li>machine Learning</li>
     <li>open CV</li>
     <li>Deep learning</li>
