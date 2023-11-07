@@ -1,3 +1,5 @@
+# 딥러닝을 이용해 저화질 이미지를 고화질로
+
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Conv2D, Input, MaxPooling2D, UpSampling2D, add
 from tensorflow.keras import regularizers
