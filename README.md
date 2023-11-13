@@ -16,7 +16,7 @@
     <li>HTML & CSS</li>
     <li>machine Learning</li>
     <li>open CV</li>
-    <li>Deep learning</li>
+    <li>Deep learning - 해상도복원</li>
     <li>SQL</li>
     <li>Flask</li>
   </ul>
