@@ -10,14 +10,6 @@ This space encapsulates the moments when my journey as a developer began, and th
 
 #### 내용
   <ul>
-    <li>python algorithm</li>
-    <li>python pandas</li>
-    <li>crawling</li>
-    <li>자연어처리 및 감성분석</li>
-    <li>HTML & CSS</li>
-    <li>machine Learning</li>
-    <li>open CV</li>
-    <li>Deep learning - 해상도복원</li>
-    <li>SQL</li>
-    <li>Flask</li>
+    <li>python algorithm-baseball game, calculator</li>
+    <li>Deep learning - Resolution Restoration</li>
   </ul>
