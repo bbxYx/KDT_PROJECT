@@ -1,9 +1,10 @@
 ### KDT_PROJECT
 
 <div>
-  &nbsp;경북대학교에서 KDT과정을 통하여 6개월 간 쌓은 지식의 일부를 저장하는 곳입니다.<br>
-  2023.6월 처음으로 python을 접하게 된 이후 pandas, DB, flask, 머신러닝, 딥러닝등 다양한 기술을 접하였습니다.<br>
-  이 곳에는 개발자의 꿈이 시작되고 그 꿈을 키워나간 시간들이 저장되어있습니다.
+  &nbsp;This is a place where I store a portion of the knowledge accumulated during the 6-month KDT (Korea Digital Training) program at Kyungpook National University.<br> 
+  Since June 2023, I have been introduced to various technologies, including Python, Pandas, databases, Flask, machine learning, and deep learning.<br>
+<br>
+This space encapsulates the moments when my journey as a developer began, and the time spent nurturing and growing the dream.
 </div>
 <br><br><br>
 
